@@ -1,0 +1,3 @@
+FROM docker.io/library/busybox
+WORKDIR /
+ADD .gitignore .
